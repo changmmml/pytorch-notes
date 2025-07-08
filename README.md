@@ -1,1 +1,1 @@
-# pytorch_basic
+# pytorch-tutorior
